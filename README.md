@@ -6,8 +6,8 @@ Test files including correctness test (correctness.cc) and persistence test (per
 Explanation of each handout file:
 
 .
-├── Makefile  // Makefile if you use GNU Make
-├── README.md // This readme file
+#├── Makefile  // Makefile if you use GNU Make
+#├── README.md // This readme file
 ├── correctness.cc // Correctness test, you should not modify this file
 ├── data      // Data directory used in our test
 ├── kvstore.cc     // your implementation
